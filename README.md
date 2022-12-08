@@ -1,2 +1,2 @@
 # Codechef-practice
-My Codechef solutions
+My Codechef solutions using C programming language
