@@ -1,6 +1,5 @@
 //Problem Code:KNGTOR
 //Contest Code:START67
-
 #include <stdio.h>
 
 int main() {
