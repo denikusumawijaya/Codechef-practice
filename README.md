@@ -1,2 +1,2 @@
-# Codechef-practice
-My Codechef solutions using C programming language.
+# Codechef-practice-problems-C
+My Codechef practice problem solutions using C programming language.
